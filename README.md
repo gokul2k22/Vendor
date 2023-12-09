@@ -35,7 +35,8 @@ Django Development Server
 >>python manage.py runserver 
 Visit http://localhost:8000/ in your browser to access the project.
 
-		PHOTO API END POINTS
+		![image](https://github.com/gokul2k22/Vendor/assets/141205539/96a528f1-8de1-43be-90d8-e72851bd28b6)
+
 
 5. API Endpoints
 -----------------
