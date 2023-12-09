@@ -16,7 +16,7 @@ You can install Django using:
 Database Setup
 Configure the database settings in settings.py. The project assumes a PostgreSQL database.
 
-	PHOTO DATABASE SETTINGS.py![image](https://github.com/gokul2k22/Vendor/assets/141205539/a305e757-e821-4d45-9ddb-c2df9344891e)
+	
 
 ![Screenshot (146)](https://github.com/gokul2k22/Vendor/assets/141205539/5c44b7e8-ebd6-4218-886c-3a526f477025)
 
