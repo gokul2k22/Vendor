@@ -35,7 +35,7 @@ Django Development Server
 >>python manage.py runserver 
 Visit http://localhost:8000/ in your browser to access the project.
 
-		![Screenshot (147)](https://github.com/gokul2k22/Vendor/assets/141205539/e89caf74-7e33-4bb2-8f91-0f0b47c5dcbb)
+![Screenshot (147)](https://github.com/gokul2k22/Vendor/assets/141205539/e89caf74-7e33-4bb2-8f91-0f0b47c5dcbb)
 
 
 5. API Endpoints
